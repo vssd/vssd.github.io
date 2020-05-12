@@ -1,4 +1,4 @@
-# <img alt="VSSD" src="vssd.png" width="20%">
+# <img alt="VSSD" src="vssd.png" width="20%" style="border:0; padding:0;">
 
 Hello und welcome to to "Flocke's Garage", the private homepage of Volker Siebert.
 
